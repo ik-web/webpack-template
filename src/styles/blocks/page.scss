@@ -1,0 +1,30 @@
+html {
+  font-family: 'Roboto-Regular-webfont', sans-serif;
+  font-size: 16px;
+  color: $color-text-main; 
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+p {
+  text-align: center;
+  font-size: 14px;
+  color: $color-text-secondary;
+  user-select: none;
+}
+
+p,
+img {
+  width: 300px;
+}
