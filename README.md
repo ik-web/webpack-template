@@ -16,7 +16,7 @@
 
 ## Description:
 
-Webpack assembly for automating workflows <br>
+`Webpack` assembly for automating workflows <br>
 in project development
 
 ## Documentation
